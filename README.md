@@ -1,31 +1,19 @@
 # RPR-Tutorial2
 Tutorial2 on course "Development of software solutions"
 
-Univerzitet u Sarajevu
-Elektrotehnički fakultet Sarajevo
-Predmet: Razvoj programskih rješenja 2022/2023
+University in Sarajevo
+Faculty of Electrical Engineering Sarajevo
+Subject: Development of program solutions 2022/2023
 
 
-Tutorijal 2
+Tutorial 2
 
 
-Zadatak 1
-Napraviti Maven program koji računa sinus i faktorijel od zadanog broja. Aplikacija treba da bude konzolna aplikacija koja prima unos s komandne linije korištenjem args parametra u main funkciji. Klasa za računanje ovih funkcija se mora napraviti. Po završetku zadatka, isti trebate pushati na svoj novi Github repository.
+Task 1
+Create a Maven program that calculates the sine and factorial of a given number. The application should be a console application that receives input from the command line using the args parameter in the main function. A class to compute these functions must be created. After completing the task, you should push it to your new Github repository.
 
-
-Zadatak 2
-
-
-Napraviti program koji poštuje strukturu koja je prikazana na slici ispod (naravno program napisati koristeći znanja o nasljeđivanju). Prokomentarisati zadatak s tutorom. Projekat treba da bude Maven i trebate isti pushati na svoj novi Github repository.
+Task 2
+Create a program that respects the structure shown in the figure below (of course, write the program using knowledge of inheritance). Comment on the task with the tutor. The project should be Maven and you should push it to your new Github repository.
   
-
-
-
-
-
-
-
-Zadatak 3
-
-
-Napraviti program koji unosi brojeve i sprema ih u listu. Ukoliko ste unijeli “stop” program se zaustavlja, a na neku drugu riječ/slovo ponavlja unos, a u suprotnom računa sljedeće: min, max, mean i standardnu devijaciju. Za implementaciju je potrebno koristiti java.util.List klasu. Kao i sa prethodnim projektima, projekat treba da bude Maven i treba biti pushan na vaš github repository.
+Task 3
+Create a program that enters numbers and saves them in a list. If you have entered "stop", the program stops, and on another word/letter it repeats the entry, otherwise it calculates the following: min, max, mean and standard deviation. For implementation, it is necessary to use the java.util.List class. As with the previous projects, the project should be Maven and should be pushed to your github repository.

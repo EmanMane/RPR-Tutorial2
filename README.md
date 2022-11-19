@@ -1,5 +1,5 @@
 # RPR-Tutorial2
-Tutorial2 on course "Development of software solutions"
+Tutorial2 on a course called "Development of software solutions"
 
 University in Sarajevo
 Faculty of Electrical Engineering Sarajevo
